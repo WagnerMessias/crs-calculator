@@ -1,0 +1,22 @@
+{
+  "name": "crs-calculator",
+  "version": "0.0.2",
+  "description": "Express Entry Tool",
+  "main": "lib/main.js",
+  "types": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WagnerMessias/crs-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WagnerMessias/crs-calculator/issues"
+  },
+  "homepage": "https://github.com/WagnerMessias/crs-calculator#readme"
+}
