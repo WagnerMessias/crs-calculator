@@ -5,3 +5,19 @@ export declare type Ages =  {
 type AgesItem =  {
     [key: string] : number
 }
+
+export declare type EducationLevels = {
+    withSpouse:  EducationLevelItem[],
+    withoutSpouse:  EducationLevelItem[],
+}
+
+declare type EducationLevelItem = {
+    level: string,
+     point: number
+}
+
+// export declare type EducationLevelItem = {
+//     [key: string]: string | number,
+
+// }
+

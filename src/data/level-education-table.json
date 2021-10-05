@@ -1,0 +1,70 @@
+{
+  "withSpouse": [
+    {
+      "level": "Less than secondary school (high school)",
+      "point": 0
+    },
+    {
+      "level": "Secondary diploma (high school graduation)",
+      "point": 28
+    },
+    {
+      "level": "One-year degree, diploma or certificate from  a university, college, trade or technical school, or other institute)",
+      "point": 84
+    },
+    {
+      "level": "Two-year program at a university, college, trade or technical school, or other institute",
+      "point": 91
+    },
+    {
+      "level": "Bachelor's degree OR  a three or more year program at a university, college, trade or technical school, or other institute",
+      "point": 112
+    },
+    {
+      "level": "Two or more certificates, diplomas, or degrees. One must be for a program of three or more years",
+      "point": 119
+    },
+    {
+      "level": "Master's degree, OR professional degree needed to practice in a licensed profession (For “professional degree,” the degree program must have been in: medicine, veterinary medicine, dentistry, optometry, law, chiropractic medicine, or pharmacy.)",
+      "point": 126
+    },
+    { 
+      "level": "Doctoral level university degree (Ph.D.)",
+      "point": 140 
+    }
+  ],
+  "withoutSpouse": [
+    {
+      "level": "Less than secondary school (high school)",
+      "point": 0
+    },
+    {
+      "level": "Secondary diploma (high school graduation)",
+      "point": 30
+    },
+    {
+      "level": "One-year degree, diploma or certificate from  a university, college, trade or technical school, or other institute)",
+      "point": 90
+    },
+    {
+      "level": "Two-year program at a university, college, trade or technical school, or other institute",
+      "point": 98
+    },
+    {
+      "level": "Bachelor's degree OR  a three or more year program at a university, college, trade or technical school, or other institute",
+      "point": 120
+    },
+    {
+      "level": "Two or more certificates, diplomas, or degrees. One must be for a program of three or more years",
+      "point": 128
+    },
+    {
+      "level": "Master's degree, OR professional degree needed to practice in a licensed profession (For “professional degree,” the degree program must have been in: medicine, veterinary medicine, dentistry, optometry, law, chiropractic medicine, or pharmacy.)",
+      "point": 135
+    },
+    { 
+      "level": "Doctoral level university degree (Ph.D.)",
+      "point": 150
+    }
+  ]
+}
