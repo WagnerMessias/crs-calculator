@@ -16,6 +16,14 @@ declare type EducationLevelItem = {
      point: number
 }
 
+export declare type LevelsCLB =  {
+    [key: string] : CLBLevel
+}
+
+type CLBLevel =  {
+    [key: string] : number
+}
+
 // export declare type EducationLevelItem = {
 //     [key: string]: string | number,
 

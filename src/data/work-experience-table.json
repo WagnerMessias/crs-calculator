@@ -1,0 +1,16 @@
+{
+  "withSpouse": {
+    "1Years":35,
+    "2Years":46,
+    "3Years":56,
+    "4Years":63,
+    "5Years":70
+  },
+  "withoutSpouse": {
+    "1Years":40,
+    "2Years":53,
+    "3Years":64,
+    "4Years":72,
+    "5Years":80
+  }
+}

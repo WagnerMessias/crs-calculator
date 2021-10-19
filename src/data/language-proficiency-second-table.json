@@ -1,0 +1,18 @@
+{
+  "withSpouse": {
+    "CLB5": 1,
+    "CLB6": 1,
+    "CLB7": 3,
+    "CLB8": 3,
+    "CLB9": 6,
+    "CLB10": 6
+  },
+  "withoutSpouse": {
+    "CLB5": 1,
+    "CLB6": 1,
+    "CLB7": 3,
+    "CLB8": 3,
+    "CLB9": 6,
+    "CLB10": 6
+  }
+}
